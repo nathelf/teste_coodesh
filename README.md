@@ -1,5 +1,7 @@
 # teste_coodesh
 
+Obrigatório 1 - Se a página está carregando corretamente a home page;
+
 -- Apontamentos de chamadas API estão ocorrendo corretamente
 -- Responsividade Mobile/Desktop 
 
